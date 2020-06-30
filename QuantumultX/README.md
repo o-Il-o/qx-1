@@ -30,7 +30,7 @@ Maintained by <b>eHpo</b>
 ### Liby.list
 
 通过域名、IP去广告
-
+实时
 ```
 https://raw.githubusercontent.com/eHpo1/Rules/master/QuantumultX/Filter/Liby.txt
 ```
